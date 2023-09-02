@@ -1,0 +1,14 @@
+/* Footer */
+#footer h2 {
+    margin: 1rem;
+}
+
+.btn-color-black {
+    color: rgba(0, 0, 0, 0.692);
+    margin-left: 2rem;
+    margin-top: 1rem;
+    padding: .5rem 16px;
+    border: none;
+}
+
+/* Footer */
